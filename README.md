@@ -1,6 +1,6 @@
 # Olá! Eu sou a Lais Fragoso 👋
 
-### 🛡️ Engenheira de Segurança da Informação | Cloud Security | DevSecOps
+### 🛡️ Engenheira de Segurança da Informação | Devops/SRE | Resposta a Incidentes
 
 Especialista com 9 anos de experiência em segurança defensiva, resposta a incidentes e governança em larga escala. Apaixonada por automação e por construir ambientes multicloud resilientes e seguros.
 
